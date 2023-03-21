@@ -22,7 +22,7 @@
             <td><a href="https://www.instagram.com/giladbadin/">
             <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"/>
             </a></td>
-            <td><a href="https://wa.me/972502220406?text=Hey, I saw your profile on github. what's up?">
+            <td><a href="https://wa.me/972523837668?text=Hey, I saw your profile on github. what's up?">
             <img height="50" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"/>
             </a></td>
         </tr>
