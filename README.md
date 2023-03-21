@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- ✌️ My name is *Gal Giladi*, 29 years old, lives in Israel, Ramat-Gan.
--  :guardsman: Military commander on reserves (Seren).
-- :books: I’m currently learning *Computer-Science in Bar-Ilan University, 3rd year*.
-- :muscle: Working at *Citi innovation lab TLV* as a security guard.
-- 🤔 Looking for a *full stack* software developer job.
+- ✌️ My name is *Eliad Badin*, 28 years old, lives in Israel, Lod.
+- :books: I’m currently learning *Computer-Science in The College of Mannagment Academic Studies, 2nd year*.
+- 🤔 Looking for a software developer job.
 
 - 😄 Fun fact: The Eiffel Tower can be 15 cm taller during the summer, due to thermal expansion.
 
@@ -12,16 +10,16 @@
 <table>
     <tbody>
         <tr>
-            <td><a href="mailto:galgiladi1994@gmail.com">
+            <td><a href="mailto:giladbadin121@gmail.com">
             <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/>
             </a></td>
-            <td><a href="https://www.facebook.com/gpgiladi">
+            <td><a href="https://www.facebook.com/gilad.badin">
             <img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />
             </a></td>
-            <td><a href="https://www.linkedin.com/in/galgiladi1994/">
+            <td><a href="https://www.linkedin.com/in/eliad-badin-956248245/">
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
-            <td><a href="https://www.instagram.com/galgiladi1994/">
+            <td><a href="https://www.instagram.com/giladbadin/">
             <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"/>
             </a></td>
             <td><a href="https://wa.me/972502220406?text=Hey, I saw your profile on github. what's up?">
