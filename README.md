@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- ✌️ My name is *Eliad Badin*, 28 years old, lives in Israel, Lod.
-- :books: I’m currently learning *Computer-Science in The College of Mannagment Academic Studies, 2nd year*.
+- ✌️ My name is *Eliad Badin*, 29 years old, lives in Lod, Israel.
+- :books: I’m currently learning *Computer-Science in The College of Mannagment Academic Studies, 3rd year*.
 - 🤔 Looking for a software developer job.
 
 - 😄 Fun fact: The Eiffel Tower can be 15 cm taller during the summer, due to thermal expansion.
